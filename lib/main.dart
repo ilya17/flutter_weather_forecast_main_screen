@@ -197,10 +197,8 @@ Widget _forecastListView() {
       shrinkWrap: true,
       itemExtent: 200,
       itemBuilder: (BuildContext context, int index) {
-        return Container(
-          decoration: BoxDecoration(
-            color: Colors.white54,
-          ),
+        return Card(
+          color: Colors.white54,
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.center,
             mainAxisAlignment: MainAxisAlignment.center,
