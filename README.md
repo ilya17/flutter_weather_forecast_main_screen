@@ -1,4 +1,4 @@
-# new_course_flutter
+# Forecast main screen
 
 A new Flutter project.
 
